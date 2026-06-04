@@ -2,6 +2,16 @@
 
 AI & LLM Engineer | MSc Applied AI @ University of Warwick
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Charbelto&theme=onedark&no-bg=true&column=7">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Charbelto&theme=flat&no-bg=true&column=7">
+      <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=Charbelto&theme=flat&no-bg=true&column=7">
+    </picture>
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Analytics
