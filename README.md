@@ -1,6 +1,6 @@
 # Charbel Toumieh
 
-AI & LLM Engineer | MSc Applied AI @ University of Warwick
+AI & LLM Engineer
 
 ---
 
